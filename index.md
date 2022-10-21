@@ -11,7 +11,7 @@ Hi! I'm Hung.
 
 Content
 
-## Academic Experience
+## Education
 
 Content
 

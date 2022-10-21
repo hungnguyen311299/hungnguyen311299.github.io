@@ -16,7 +16,9 @@ show_sidebar: false
 show_social: true
 
 # Menu
-
+navigation: 
+  - {file: "/Hung Nguyen - Resume.pdf", title: "Resume"}
+  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:nnduyhung3112@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/hungnguyen311299"}

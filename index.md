@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "About me"
 ---
 
 Hi! I'm Hung Nguyen. 

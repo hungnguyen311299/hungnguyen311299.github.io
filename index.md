@@ -5,7 +5,7 @@ title: "Hung Nguyen"
 
 ## About me
 
-![This is an image](/assets/profile pic.jpg)
+![](/assets/profile pic.jpg =250x250)
 
 Hi! I'm Hung.
 

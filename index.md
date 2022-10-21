@@ -5,15 +5,18 @@ title: "Hung Nguyen"
 
 ## About me
 
-![](/assets/profile pic.jpg =1250x1250)
+![](/assets/profile pic.jpg | width=1250)
 
 Hi! I'm Hung.
+I'm a Vingroup Scholar nominee applying to graduate schools. 
 
-## Publications 
+Rese
+
+## Education
 
 Content
 
-## Education
+## Publications 
 
 Content
 

@@ -5,7 +5,7 @@ title: "Hung Nguyen"
 
 ## About me
 
-![This is an image](/assets/profile pic.jpg)
+<img src="assets/profile pic.jpg" width="750">
 
 Hi! I'm Hung.
 I'm a Vingroup Scholar nominee applying to graduate schools. 

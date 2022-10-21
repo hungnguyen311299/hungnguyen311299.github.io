@@ -5,12 +5,12 @@ title: "Hung Nguyen"
 
 ## About me
 
-![](/assets/profile pic.jpg | width=1250)
+![This is an image](/assets/profile pic.jpg)
 
 Hi! I'm Hung.
 I'm a Vingroup Scholar nominee applying to graduate schools. 
 
-Rese
+**Research interests**: monocular depth estimation, robotics, image segmentation. 
 
 ## Education
 

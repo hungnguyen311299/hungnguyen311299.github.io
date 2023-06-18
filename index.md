@@ -6,6 +6,12 @@ title: "Hung Nguyen"
 ## About me
 
 <img style="right" src="assets/profile pic.jpg" width="250"> 
+<img style="right" src="assets/Logo Hưng trang (1).png"> 
+<img style="right" src="assets/Logo Hưng trang (2).png"> 
+<img style="right" src="assets/Logo Hưng trang (3).png"> 
+<img style="right" src="assets/Logo Hưng trang-1.png"> 
+<img style="right" src="assets/Logo Hưng trang-2.png"> 
+<img style="right" src="assets/Logo Hưng trang-3.png"> 
 
 Hi! I'm Hung. I'm a [Vingroup Scholar](https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/) nominee applying to graduate schools. My field of study would be Computer Science, with specialization in Artificial Intelligence (Computer Vision to be more precise).
 

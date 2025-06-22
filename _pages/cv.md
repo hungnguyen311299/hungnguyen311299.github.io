@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Please refer to the following [link](https://drive.google.com/file/d/1nFDECxJmygRvJ0K2yH5p5ElMCQpriS5r/view?usp=sharing) for my most up-to-date and detailed Resume.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+* M.S. in Electrical Engineering, [University of California San Diego](https://ucsd.edu/), 2025
+* B.S. in Mechatronics Engineering, [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en), 2022
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work experience
+* 09/2023 - 06/2025: Graduate Researcher at [University of California San Diego](https://ucsd.edu/), United States
+* 01/2023 - 07/2023: Quantitative Researcher Intern at [WorldQuant](https://www.worldquant.com/), Vietnam
+* 09/2022 - 02/2023: Technology Specialist at [VinBigData](https://vinbigdata.com/en), Vietnam
+* 02/2020 - 01/2021: Undergraduate Technical Intern at [Intel Products](https://www.intel.com/content/www/us/en/homepage.html), Vietnam
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Honors and Awards
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 07/2023: Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/) for Overseas Study for Master’s and Doctoral Degrees. A highly competitive, fully-funded scholarship (110,000 USD) awarded to Vietnamese students demonstrating research potentials and willingness to contribute to Vietnam's scientific developments.
+* 04/2022: Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) for Undergraduate Students. A 1000 USD fellowship awarded to around 20 Vietnamese students with excellent academic records yearly.
+* 01/2021: PECC [Scholarship](https://pecc2.com/en/main.html) for Undergraduate Students. A 500 USD fellowship awarded to the top 15 Engineering students based on academic results.
+

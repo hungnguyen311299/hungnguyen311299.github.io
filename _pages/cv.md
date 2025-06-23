@@ -23,7 +23,11 @@ Please refer to the following [link](https://drive.google.com/file/d/1nFDECxJmyg
 
 ## Honors and Awards
 
+* 10/2024: Invitation to [Eta Kappa Nu](https://hkn.ucsd.edu/), an honor society for top students of the ECE department.
 * 07/2023: Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/) for Overseas Study for Master’s and Doctoral Degrees. A highly competitive, fully-funded scholarship (110,000 USD) awarded to Vietnamese students demonstrating research potentials and willingness to contribute to Vietnam's scientific developments.
 * 04/2022: Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) for Undergraduate Students. A 1000 USD fellowship awarded to around 20 Vietnamese students with excellent academic records yearly.
 * 01/2021: PECC [Scholarship](https://pecc2.com/en/main.html) for Undergraduate Students. A 500 USD fellowship awarded to the top 15 Engineering students based on academic results.
+
+## Languages
+* English (Fluent), German (Intermediate), Vietnamese (Native)
 

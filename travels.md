@@ -63,6 +63,14 @@ I keep images of the places I've been to as below. Places near my hometown of Sa
   <span style="font-style: italic; font-size: 0.9em;">Hollywood Walk of Fame</span>
 </p>
 
+## Vung Tau, Vietnam (2019, 2020, 2024)
+
+<p align="center">
+  <img src="/images/vungtau.jpg" width="600"><br>
+  <span style="font-style: italic; font-size: 0.9em;">Vung Tau Beach</span>
+</p>
+
+
 ## Bangkok, Thailand (2023)
 
 <p align="center">
@@ -77,15 +85,18 @@ I keep images of the places I've been to as below. Places near my hometown of Sa
   <span style="font-style: italic; font-size: 0.9em;">Tuyen Lam Lake</span>
 </p>
 
-<!-- ## Vung Tau, Vietnam (2019, 2023)
-
-## Phan Thiet, Vietnam (2023) -->
-
 ## Phu Yen, Vietnam (2023)
 
 <p align="center">
   <img src="/images/phuyen.jpg" width="600"><br>
   <span style="font-style: italic; font-size: 0.9em;">Somewhere along the way to Dai Lanh Lighthouse</span>
+</p>
+
+## Kien Giang, Vietnam (2023)
+
+<p align="center">
+  <img src="/images/kiengiang.jpg" width="600"><br>
+  <span style="font-style: italic; font-size: 0.9em;">U Minh Thuong National Park</span>
 </p>
 
 ## Quy Nhon, Vietnam (2023)
@@ -95,7 +106,7 @@ I keep images of the places I've been to as below. Places near my hometown of Sa
   <span style="font-style: italic; font-size: 0.9em;">Ky Co Beach</span>
 </p>
 
-## Pleiku, Vietnam (2023)
+## Gia Lai, Vietnam (2023)
 
 <p align="center">
   <img src="/images/gialai.jpg" width="600"><br>

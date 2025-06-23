@@ -141,7 +141,7 @@ I keep images of the places I've been to as below. Places near my hometown of Sa
   <span style="font-style: italic; font-size: 0.9em;">Nha Trang Beach</span>
 </p>
 
-## Hoi An, Vietnam (2022)
+## Hoi An, Vietnam (2019, 2022)
 
 <p align="center">
   <img src="/images/hoian.jpg" width="600"><br>

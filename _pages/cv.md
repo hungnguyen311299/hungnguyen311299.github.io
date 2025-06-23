@@ -13,7 +13,7 @@ Please refer to the following [link](https://drive.google.com/file/d/1nFDECxJmyg
 
 ## Education
 * M.S. in Electrical Engineering, [University of California San Diego](https://ucsd.edu/), 2025
-* B.S. in Mechatronics Engineering, [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en), 2022
+* B.Eng. in Mechatronics Engineering, [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en), 2022
 
 ## Work experience
 * 09/2023 - 06/2025: Graduate Researcher at [University of California San Diego](https://ucsd.edu/), United States

@@ -10,6 +10,36 @@ author_profile: true
 <table>
 <tr>
 <td width="400">
+  <img src="/images/3dretinal.png" width="400"/>
+</td>
+<td>
+  <div style="font-size: 18px; line-height: 1.4;">
+    <strong>Universal Wavelet Units in 3D Retinal Layer Segmentation</strong><br/>
+    An Le, <strong>Hung Nguyen</strong>, Melanie Tran, Jesse Most, Dirk-Uwe G. Bartsch, William Freeman, Shyamanga Borooah, Truong Q. Nguyen, Cheolhong An<br/>
+    <em>In submission</em>, 2025. <a href="https://drive.google.com/file/d/1-iGrmIM5SHYBbSGp7lJlb_LRZNMtqWPe/view?usp=sharing">[paper]</a>
+  </div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="400">
+  <img src="/images/stopband.png" width="400"/>
+</td>
+<td>
+  <div style="font-size: 18px; line-height: 1.4;">
+    <strong>Stop-band Energy Constraint for Orthogonal Tunable Wavelet Units in Convolutional Neural Networks for Computer Vision problems</strong><br/>
+    An Le, <strong>Hung Nguyen</strong>, Sungbal Seo, You-Suk Bae, Truong Nguyen<br/>
+    <em>In submission</em>, 2025. <a href="https://drive.google.com/file/d/1KbwYp3MENXWFdEuqNc_WdkO9IY_W6g_a/view?usp=sharing">[paper]</a>
+  </div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="400">
   <img src="/images/autoopti.png" width="400"/>
 </td>
 <td>

@@ -5,7 +5,14 @@ permalink: /travels/
 author_profile: true
 ---
 
-I keep images of the places I've been to as below. Places near my hometown of Saigon, Vietnam are not considered. The rule is that only one image can be used for each destination. This forces me to choose what I like most about the places. When I revisit a place, I must take a new image to see if it ''outperforms'' the current best image.
+I keep images of the places I've been to as below. The rule is that only one image can be used for each destination. This forces me to choose what I like most about the places. When I revisit a place, I must take a new image to see if it ''outperforms'' the current best image.
+
+## Ho Chi Minh City, Vietnam (Hometown)
+
+<p align="center">
+  <img src="/images/saigon.jpg" width="600"><br>
+  <span style="font-style: italic; font-size: 0.9em;">A HCMC Metro station</span>
+</p>
 
 ## Philadelphia, United States (2025)
 

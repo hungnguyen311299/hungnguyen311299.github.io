@@ -23,13 +23,13 @@ My research interests include, but not limited to, the following:
 
 ## News
 
-\[06/2025\] A [paper](https://drive.google.com/file/d/1sl6l6h3DLbkB0AURkIKlkbk7QH-P4Znu/view?usp=drive_link) on 3DGS optimization is accepted to [the 2025 ICCV Workshop](https://eclr-workshop.github.io/).
+\[06/2025\] A [paper](https://arxiv.org/abs/2506.23042) on Learnable DWT for 3DGS optimization is accepted to [the 2025 ICCV Workshop](https://eclr-workshop.github.io/).
 
-\[06/2025\] I successfully defended my [Master's thesis](https://drive.google.com/file/d/10maWnG9hHGcd621Z5xPlsC7DWKYqb8Il/view?usp=drive_link)!
+\[06/2025\] I successfully defended my [Master's thesis](https://escholarship.org/uc/item/1cx3p4sf)!
 
-\[05/2025\] A [paper](https://drive.google.com/file/d/1Kz5c6pTeC5OPDeaMa0MMkZI52_d-2A9L/view?usp=drive_link) on Learnable DWT with biorthogonal wavelets is accepted to [the 2025 EUSIPCO conference](https://eusipco2025.org/).
+\[05/2025\] A [paper](https://arxiv.org/abs/2507.00739) on Learnable DWT with biorthogonal wavelets is accepted to [the 2025 EUSIPCO conference](https://eusipco2025.org/).
 
-\[05/2025\] A [paper](https://drive.google.com/file/d/1tLAD0KQPpZjsEfrB9RhM0ZajE6nt0TJA/view?usp=drive_link) on Learnable DWT for CT image classification is accepted to [the 2025 EUSIPCO conference](https://eusipco2025.org/).
+\[05/2025\] A [paper](https://arxiv.org/abs/2507.00743) on Learnable DWT for CT image classification is accepted to [the 2025 EUSIPCO conference](https://eusipco2025.org/).
 
 \[04/2025\] I passed the Comprehensive Exam [requirements](https://ece.ucsd.edu/graduate/ms-degree-requirements) and will graduate from UCSD with a Master's degree! I will still be doing my Master's thesis at UCSD for additional research experience. 
 

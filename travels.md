@@ -7,7 +7,7 @@ author_profile: true
 
 I keep images of the places I've been to as below. The rule is that only one image can be used for each destination. This forces me to choose what I like most about the places. When I revisit a place, I must take a new image to see if it ''outperforms'' the current best image.
 
-## Phu Quy, Vietnam (Hometown)
+## Phu Quy, Vietnam (2025)
 
 <p align="center">
   <img src="/images/phuquy.jpg" width="600"><br>

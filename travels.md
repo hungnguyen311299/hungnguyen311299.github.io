@@ -11,7 +11,7 @@ I keep images of the places I've been to as below. The rule is that only one ima
 
 <p align="center">
   <img src="/images/phuquy.jpg" width="600"><br>
-  <span style="font-style: italic; font-size: 0.9em;">Sung Suong Khe </span>
+  <span style="font-style: italic; font-size: 0.9em;">Sung Suong Ravine </span>
 </p>
 
 ## Ho Chi Minh City, Vietnam (Hometown)

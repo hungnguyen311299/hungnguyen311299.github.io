@@ -29,7 +29,7 @@ My research interests include, but not limited to, the following:
 
 \[06/2025\] I successfully defended my [Master's thesis](https://escholarship.org/uc/item/1cx3p4sf)!
 
-\[05/2025\] Two papers ([paper 1](https://arxiv.org/abs/2507.00739), [paper 2](https://arxiv.org/abs/2507.00743)) is accepted to [the 2025 EUSIPCO conference](https://eusipco2025.org/).
+\[05/2025\] Two papers ([paper 1](https://arxiv.org/abs/2507.00739), [paper 2](https://arxiv.org/abs/2507.00743)) are accepted to [the 2025 EUSIPCO conference](https://eusipco2025.org/).
 
 \[04/2025\] I passed the Comprehensive Exam [requirements](https://ece.ucsd.edu/graduate/ms-degree-requirements) and will graduate from UCSD with a Master's degree! I will still be doing my Master's thesis at UCSD for additional research experience. 
 

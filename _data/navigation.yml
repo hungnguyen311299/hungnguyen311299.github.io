@@ -34,8 +34,8 @@ main:
   # - title: "Life"
   #   url: /life/
     
-  - title: "Books"
-    url: /books/
+  # - title: "Books"
+  #   url: /books/
   # - title: "CV"
   #   url: /cv-json/
     

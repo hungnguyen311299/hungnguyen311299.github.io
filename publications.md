@@ -16,7 +16,7 @@ author_profile: true
   <div style="font-size: 18px; line-height: 1.4;">
     <strong>DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting</strong><br/>
     <strong>Hung Nguyen</strong>, Runfa Li, An Le, Truong Nguyen<br/>
-    <em>arXiv preprint</em>, 2025. <a href="https://arxiv.org/abs/2507.15690">[paper]</a>
+    <em>International Conference on Visual Communications and Image Processing (VCIP)/em>, 2025. <a href="https://arxiv.org/abs/2507.15690">[paper]</a>
   </div>
 </td>
 </tr>
@@ -46,7 +46,7 @@ author_profile: true
   <div style="font-size: 18px; line-height: 1.4;">
     <strong>Stop-band Energy Constraint for Orthogonal Tunable Wavelet Units in Convolutional Neural Networks for Computer Vision problems</strong><br/>
     An Le, <strong>Hung Nguyen</strong>, Sungbal Seo, You-Suk Bae, Truong Nguyen<br/>
-    <em>arXiv preprint</em>, 2025. <a href="https://arxiv.org/abs/2507.16114">[paper]</a>
+    <em>International Conference on Visual Communications and Image Processing (VCIP)</em>, 2025. <a href="https://arxiv.org/abs/2507.16114">[paper]</a>
   </div>
 </td>
 </tr>

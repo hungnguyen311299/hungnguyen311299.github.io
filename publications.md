@@ -10,6 +10,21 @@ author_profile: true
 <table>
 <tr>
 <td width="400">
+  <img src="/images/waveletgaussian.png" width="400"/>
+</td>
+<td>
+  <div style="font-size: 18px; line-height: 1.4;">
+    <strong>WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction</strong><br/>
+    <strong>Hung Nguyen</strong>, Runfa Li, An Le, Truong Nguyen<br/>
+    <em>arXiv preprint</em>, 2025. <a href="https://arxiv.org/abs/2509.19073">[paper]</a>
+  </div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="400">
   <img src="/images/dwtgs.png" width="400"/>
 </td>
 <td>

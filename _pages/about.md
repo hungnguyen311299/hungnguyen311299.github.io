@@ -9,7 +9,7 @@ redirect_from:
 
 ## General Information
 
-My name is Hung Nguyen, westernized from my Vietnamese name ''Nguyễn Ngọc Duy Hưng''. I recently graduated with my Master's degree in Electrical Engineering at the University of California San Diego, United States, through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). I am a graduate student researcher in Signal & Image Processing at the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen). I work on AI-based 3D reconstruction and medical image processing, guided by a strong signal processing perspective. Before that, I graduated with a Bachelor's degree in Mechatronics Engineering at the Ho Chi Minh City University of Technology, Vietnam, working on perception for robotics. 
+Incoming PhD student in computer vision and machine learning. Recently graduated with a Master's degree in Electrical Engineering at the University of California San Diego, United States, through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). I am a graduate student researcher in Signal & Image Processing at the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen). I work on AI-based 3D reconstruction and medical image processing, guided by a strong signal/image processing perspective. Before that, I graduated with a Bachelor's degree in Mechatronics Engineering at the Ho Chi Minh City University of Technology, Vietnam, working on perception for robotics. 
 
 <!-- <span style="color:red;">I am actively looking for PhD positions starting Fall 2025 or Winter 2026. Please refer to my research interests below. </span> -->
 
@@ -22,6 +22,8 @@ My research interests include, but not limited to, the following:
 - **How can these priors constrain the learnt representations under limited data?** With a sparse set of labelled inputs, the learnt representations tend to be inadequately controlled, leading to subpar performances. However, working in low-data regime provides the benefits of shorter training time and cheaper annotation costs. The key idea is that the priors above, coupled with DSP concepts, can guide the model toward learning compact and structured representations that enhance robustness and efficiency, despite relying only on sparse inputs.
 
 ## News
+
+\[10/2025\] Received a fully-funded scholarship for PhD studies in computer vision.
 
 \[09/2025\] Two papers ([paper 1](https://arxiv.org/abs/2507.15690), [paper 2](https://arxiv.org/abs/2507.16114)) are accepted to [the 2025 VCIP conference](https://vcip2025.itec.aau.at/).
 

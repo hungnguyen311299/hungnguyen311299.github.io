@@ -17,7 +17,7 @@ Please refer to the following [link](https://drive.google.com/file/d/1cwcRtLsp26
 
 ## Work experience
 * 09/2023 - Present: Graduate Researcher at [University of California San Diego](https://ucsd.edu/), United States
-* 01/2023 - 07/2023: Quantitative Researcher Intern at [WorldQuant](https://www.worldquant.com/), Vietnam
+* 01/2023 - 07/2023: Quantitative Researcher at [WorldQuant](https://www.worldquant.com/), Vietnam
 * 09/2022 - 02/2023: Technology Specialist at [VinBigData](https://vinbigdata.com/en), Vietnam
 * 02/2020 - 01/2021: Undergraduate Technical Intern at [Intel Products](https://www.intel.com/content/www/us/en/homepage.html), Vietnam
 

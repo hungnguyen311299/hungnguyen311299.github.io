@@ -23,6 +23,7 @@ Please refer to the following [link](https://drive.google.com/file/d/1cwcRtLsp26
 
 ## Honors and Awards
 
+* 10/2025: Offered the highly competitive [Research Training Program Scholarship](https://www.monash.edu/study/fees-scholarships/scholarships/find-a-scholarship/research-training-program-scholarship) for fully-funded PhD studies.
 * 10/2024: Invitation to [Eta Kappa Nu](https://hkn.ucsd.edu/), an honor society for top students of UCSD's ECE department.
 * 07/2023: Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/) for Overseas Study for Master’s and Doctoral Degrees. A highly competitive, fully-funded scholarship (110,000 USD) awarded to Vietnamese students demonstrating research potentials and willingness to contribute to Vietnam's scientific developments.
 * 04/2022: Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) for Undergraduate Students. A 1000 USD fellowship awarded to around 20 Vietnamese students with excellent academic records yearly.

@@ -9,9 +9,7 @@ redirect_from:
 
 ## General Information
 
-Incoming PhD student in Computer Vision, Machine Learning and Signal Processing. Recently graduated with a Master's degree in Electrical Engineering at the University of California San Diego, United States, through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). I am a graduate student researcher in Signal & Image Processing at the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen). I work on AI-based 3D reconstruction and medical image processing, guided by a strong signal/image processing perspective. Before that, I graduated with a Bachelor's degree in Mechatronics Engineering at the Ho Chi Minh City University of Technology, Vietnam, working on perception for robotics. 
-
-<!-- <span style="color:red;">I am actively looking for PhD positions starting Fall 2025 or Winter 2026. Please refer to my research interests below. </span> -->
+Recently graduated with a Master's degree in Electrical Engineering at the University of California San Diego, United States, through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). I am a graduate student researcher in Signal & Image Processing at the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen). I work on AI-based 3D reconstruction and medical image processing, guided by a strong signal/image processing perspective. Before that, I graduated with a Bachelor's degree in Mechatronics Engineering at the Ho Chi Minh City University of Technology, Vietnam, working on perception for robotics. 
 
 ## Research Interests
 

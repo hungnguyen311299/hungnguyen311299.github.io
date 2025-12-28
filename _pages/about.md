@@ -9,7 +9,7 @@ redirect_from:
 
 ## General Information
 
-Recently graduated with a Master's degree in Electrical Engineering at the University of California San Diego, United States, through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). I am a graduate student researcher in Signal & Image Processing at the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen). I work on AI-based 3D reconstruction and medical image processing, guided by a strong signal/image processing perspective. Before that, I graduated with a Bachelor's degree in Mechatronics Engineering at the Ho Chi Minh City University of Technology, Vietnam, working on perception for robotics. 
+Senior AI Engineer at VinMotion, working on perception for robotics. Recently graduated with a Master's degree in Electrical Engineering at the University of California San Diego, United States, through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). I am a graduate student researcher in Signal & Image Processing at the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen). I work on AI-based 3D reconstruction and medical image processing, guided by a strong signal/image processing perspective. Before that, I graduated with a Bachelor's degree in Mechatronics Engineering at the Ho Chi Minh City University of Technology, Vietnam, working on perception for robotics. 
 
 ## Research Interests
 
@@ -20,6 +20,8 @@ My research interests include, but not limited to, the following:
 - **How can these priors constrain the learnt representations under limited data?** With a sparse set of labelled inputs, the learnt representations tend to be inadequately controlled, leading to subpar performances. However, working in low-data regime provides the benefits of shorter training time and cheaper annotation costs. The key idea is that the priors above, coupled with DSP concepts, can guide the model toward learning compact and structured representations that enhance robustness and efficiency, despite relying only on sparse inputs.
 
 ## News
+
+\[12/2025\] I took on the Senior AI Engineer position at [VinMotion](https://vinmotion.net/), working on perception for robotics (pose estimation, vision-language-action models).
 
 \[10/2025\] I received a fully-funded scholarship for PhD studies in Computer Vision, Machine Learning and Signal Processing.
 

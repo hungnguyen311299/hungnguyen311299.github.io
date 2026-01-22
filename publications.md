@@ -16,7 +16,7 @@ author_profile: true
   <div style="font-size: 18px; line-height: 1.4;">
     <strong>WaveletGaussian: Wavelet-domain Diffusion for Sparse-view 3D Gaussian Object Reconstruction</strong><br/>
     <strong>Hung Nguyen</strong>, Runfa Li, An Le, Truong Nguyen<br/>
-    <em>arXiv preprint</em>, 2025. <a href="https://arxiv.org/abs/2509.19073">[paper]</a>
+    <em>International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2026. <a href="https://arxiv.org/abs/2509.19073">[paper]</a>
   </div>
 </td>
 </tr>

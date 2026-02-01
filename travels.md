@@ -8,7 +8,7 @@ author_profile: true
 I keep images of the places I've been to as below. The rule is that only one image can be used for each destination. This forces me to choose what I like most about the places. When I revisit a place, I must take a new image to see if it ''outperforms'' the current best image.
 
 <details>
-  <summary>Ha Noi, Vietnam (2025)</summary>
+  <summary>Ha Noi, Vietnam (2021-2023, 2025, 2026)</summary>
   <p align="center">
     <img src="/images/hanoi.jpg" width="600"><br>
     <span style="font-style: italic; font-size: 0.9em;">The Huc Bridge</span>
@@ -24,7 +24,7 @@ I keep images of the places I've been to as below. The rule is that only one ima
 </details>
 
 <details>
-  <summary>Sa Pa, Vietnam (2025)</summary>
+  <summary>Sa Pa, Vietnam (2025, 2026)</summary>
   <p align="center">
     <img src="/images/sapa.jpg" width="600"><br>
     <span style="font-style: italic; font-size: 0.9em;">Nightlife Sapa</span>

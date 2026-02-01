@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2025
+## 2026
 
 <table>
 <tr>
@@ -21,6 +21,8 @@ author_profile: true
 </td>
 </tr>
 </table>
+
+## 2025
 
 <table>
 <tr>

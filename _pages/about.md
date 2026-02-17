@@ -9,7 +9,13 @@ redirect_from:
 
 ## General Information
 
-Senior AI Engineer at VinMotion, working on perception for robotics. Recently graduated with a Master's degree in Electrical Engineering at the University of California San Diego, United States, through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). I am a graduate student researcher in Signal & Image Processing at the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen). I work on AI-based 3D reconstruction and medical image processing, guided by a strong signal/image processing perspective. Before that, I graduated with a Bachelor's degree in Mechatronics Engineering at the Ho Chi Minh City University of Technology, Vietnam, working on perception for robotics. 
+I am a PhD student in Electrical Engineering (Signal and Image Processing) at the University of California San Diego, United States, co-advised by Distinguished Professors [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen) and [Pamela Cosman](https://jacobsschool.ucsd.edu/node/3287), Chair of the ECE Department. 
+
+I am affiliated with the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. Truong Nguyen. I work on integrating traditional image and signal processing concepts and approaches into modern computer vision frameworks, e.g., diffusion models, 3D Gaussian Splatting.
+
+My Master's degree at UCSD was fully-funded through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). 
+
+I am also a Senior AI Engineer at VinMotion, researching pose estimation, grasp detection and vision-language models.
 
 <!-- ## Research Interests
 
@@ -21,11 +27,11 @@ My research interests include, but not limited to, the following:
 
 ## News
 
+\[02/2026\] I will be starting my PhD at UCSD.
+
 \[01/2026\] A [paper](https://arxiv.org/pdf/2509.19073) is accepted to [the 2026 ICASSP conference](https://2026.ieeeicassp.org/).
 
 \[12/2025\] I took on the Senior AI Engineer position at [VinMotion](https://vinmotion.net/), working on perception for robotics (pose estimation, grasp detection, vision-language-action models).
-
-\[10/2025\] I received a fully-funded scholarship for PhD studies in Computer Vision, Machine Learning and Signal Processing.
 
 \[09/2025\] Two papers ([paper 1](https://arxiv.org/abs/2507.15690), [paper 2](https://arxiv.org/abs/2507.16114)) are accepted to [the 2025 VCIP conference](https://vcip2025.itec.aau.at/).
 

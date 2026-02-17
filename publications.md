@@ -16,7 +16,7 @@ author_profile: true
   <div style="font-size: 18px; line-height: 1.4;">
     <strong>Learnable Multi-level Discrete Wavelet Transforms for 3D Gaussian Splatting Frequency Modulation</strong><br/>
     <strong>Hung Nguyen</strong>, An Le, Truong Nguyen<br/>
-    <em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2509.19073">[paper]</a>
+    <em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/abs/2602.14199">[paper]</a>
   </div>
 </td>
 </tr>

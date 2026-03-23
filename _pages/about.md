@@ -13,9 +13,9 @@ I am a PhD student in Electrical Engineering (Signal and Image Processing) at th
 
 I am affiliated with the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. Truong Nguyen. I work on integrating traditional image and signal processing concepts and approaches into modern computer vision frameworks, e.g., diffusion models, 3D Gaussian Splatting.
 
-My Master's degree at UCSD was fully-funded through a [fully-funded scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). 
+My Master's degree at UCSD was fully-funded through a [scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (~$110,000 USD) from [Vingroup](https://vingroup.net/en). 
 
-I am also a Senior AI Engineer at VinMotion, researching pose estimation, grasp detection and vision-language models.
+<!-- I am also a Senior AI Engineer at VinMotion, researching pose estimation, grasp detection and vision-language models. -->
 
 <!-- ## Research Interests
 

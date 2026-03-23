@@ -14,9 +14,8 @@ redirect_from:
 * M.S. in Electrical Engineering, [University of California San Diego](https://ucsd.edu/) (UCSD), 2023-2025
 * B.Eng. in Mechatronics Engineering, [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en) (HCMUT), 2017-2022
 
-## Work experience
-* 09/2023 - Present: Graduate Student Researcher at [University of California San Diego](https://ucsd.edu/), United States
-* 12/2025 - Present: Senior AI Engineer at [VinMotion](https://vinmotion.net/)
+<!-- ## Work experience
+* 09/2023 - Present: Graduate Student Researcher at [University of California San Diego](https://ucsd.edu/), United States -->
 
 ## Honors and Awards
 

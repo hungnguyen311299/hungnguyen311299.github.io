@@ -31,8 +31,6 @@ My research interests include, but not limited to, the following:
 
 \[01/2026\] A [paper](https://arxiv.org/pdf/2509.19073) is accepted to [the 2026 ICASSP conference](https://2026.ieeeicassp.org/).
 
-\[12/2025\] I took on the Senior AI Engineer position at [VinMotion](https://vinmotion.net/), working on perception for robotics (pose estimation, grasp detection, vision-language-action models).
-
 \[09/2025\] Two papers ([paper 1](https://arxiv.org/abs/2507.15690), [paper 2](https://arxiv.org/abs/2507.16114)) are accepted to [the 2025 VCIP conference](https://vcip2025.itec.aau.at/).
 
 \[06/2025\] A [paper](https://arxiv.org/abs/2506.23042) is accepted to [the 2025 ICCV Workshop](https://eclr-workshop.github.io/).

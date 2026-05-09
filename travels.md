@@ -5,7 +5,93 @@ permalink: /travels/
 author_profile: true
 ---
 
-I keep images of the places I've been to as below. The rule is that only one image can be used for each destination. This forces me to choose what I like most about the places. When I revisit a place, I must take a new image to see if it ''outperforms'' the current best image.
+<details>
+  <summary>Barcelona, Spain (2026)</summary>
+  <p align="center">
+    <img src="/images/barcelona.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Sagrada Familia</span>
+  </p>
+</details>
+
+<details>
+  <summary>Montpellier, France (2026)</summary>
+  <p align="center">
+    <img src="/images/montpellier.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Place de la Comédie</span>
+  </p>
+</details>
+
+<details>
+  <summary>Lyon, France (2026)</summary>
+  <p align="center">
+    <img src="/images/lyon.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">The lake at Parc de la Tête d'or</span>
+  </p>
+</details>
+
+<details>
+  <summary>Thun, Switzerland (2026)</summary>
+  <p align="center">
+    <img src="/images/thun.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Thun Castle</span>
+  </p>
+</details>
+
+<details>
+  <summary>Grindenwald, Switzerland (2026)</summary>
+  <p align="center">
+    <img src="/images/iseltwald.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">The snow on Grindenwald-First</span>
+  </p>
+</details>
+
+<details>
+  <summary>Iseltwald, Switzerland (2026)</summary>
+  <p align="center">
+    <img src="/images/iseltwald.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Crash Landing on You pier</span>
+  </p>
+</details>
+
+<details>
+  <summary>Iseltwald, Switzerland (2026)</summary>
+  <p align="center">
+    <img src="/images/iseltwald.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Crash Landing on You pier</span>
+  </p>
+</details>
+
+<details>
+  <summary>Lauterbrunnen, Switzerland (2026)</summary>
+  <p align="center">
+    <img src="/images/lauterbrunnen.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">The view from Staubbach Falls</span>
+  </p>
+</details>
+
+<details>
+  <summary>Interlaken, Switzerland (2026)</summary>
+  <p align="center">
+    <img src="/images/interlaken.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Strolling along Interlaken East</span>
+  </p>
+</details>
+
+<details>
+  <summary>Zurich, Switzerland (2026)</summary>
+  <p align="center">
+    <img src="/images/zurich.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">ETH Zurich viewpoint</span>
+  </p>
+</details>
+
+<details>
+  <summary>Hekou, China (2025)</summary>
+  <p align="center">
+    <img src="/images/hekou.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Railway somewhere in Hekou</span>
+  </p>
+</details>
 
 <details>
   <summary>Ha Noi, Vietnam (2021-2023, 2025, 2026)</summary>

@@ -40,16 +40,8 @@ author_profile: true
 <details>
   <summary>Grindenwald, Switzerland (2026)</summary>
   <p align="center">
-    <img src="/images/iseltwald.jpg" width="600"><br>
+    <img src="/images/grindenwald.jpg" width="600"><br>
     <span style="font-style: italic; font-size: 0.9em;">The snow on Grindenwald-First</span>
-  </p>
-</details>
-
-<details>
-  <summary>Iseltwald, Switzerland (2026)</summary>
-  <p align="center">
-    <img src="/images/iseltwald.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">Crash Landing on You pier</span>
   </p>
 </details>
 

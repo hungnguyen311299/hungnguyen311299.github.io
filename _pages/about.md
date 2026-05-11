@@ -27,6 +27,8 @@ My research interests include, but not limited to, the following:
 
 ## News
 
+\[05/2026\] A [paper](https://arxiv.org/abs/2602.14199) is accepted to [the 2026 EUSIPCO conference](https://eusipco2026.org/).
+
 \[01/2026\] A [paper](https://arxiv.org/pdf/2509.19073) is accepted to [the 2026 ICASSP conference](https://2026.ieeeicassp.org/).
 
 \[09/2025\] Two papers ([paper 1](https://arxiv.org/abs/2507.15690), [paper 2](https://arxiv.org/abs/2507.16114)) are accepted to [the 2025 VCIP conference](https://vcip2025.itec.aau.at/).

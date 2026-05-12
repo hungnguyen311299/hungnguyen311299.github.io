@@ -78,14 +78,6 @@ author_profile: true
 </details>
 
 <details>
-  <summary>Hekou, China (2025)</summary>
-  <p align="center">
-    <img src="/images/hekou.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">Railway somewhere in Hekou</span>
-  </p>
-</details>
-
-<details>
   <summary>Ha Noi, Vietnam (2021-2023, 2025, 2026)</summary>
   <p align="center">
     <img src="/images/hanoi.jpg" width="600"><br>

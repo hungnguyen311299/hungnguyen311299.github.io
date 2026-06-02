@@ -6,6 +6,30 @@ author_profile: true
 ---
 
 <details>
+  <summary><strong>San Diego, United States (2023–present)</strong></summary>
+  <p align="center">
+    <img src="/images/sd.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">The Pacific Ocean viewed from La Jolla</span>
+  </p>
+</details>
+
+<details>
+  <summary><strong>Ho Chi Minh City, Vietnam (Hometown)</strong></summary>
+  <p align="center">
+    <img src="/images/saigon.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">A HCMC Metro station</span>
+  </p>
+</details>
+
+<details>
+  <summary>Cao Bang, Vietnam (2026)</summary>
+  <p align="center">
+    <img src="/images/caobang.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Lenin Stream</span>
+  </p>
+</details>
+
+<details>
   <summary>Barcelona, Spain (2026)</summary>
   <p align="center">
     <img src="/images/barcelona.jpg" width="600"><br>
@@ -110,14 +134,6 @@ author_profile: true
 </details>
 
 <details>
-  <summary>Ho Chi Minh City, Vietnam (Hometown)</summary>
-  <p align="center">
-    <img src="/images/saigon.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">A HCMC Metro station</span>
-  </p>
-</details>
-
-<details>
   <summary>Philadelphia, United States (2025)</summary>
   <p align="center">
     <img src="/images/phil.jpg" width="600"><br>
@@ -162,14 +178,6 @@ author_profile: true
   <p align="center">
     <img src="/images/honolulu.jpg" width="600"><br>
     <span style="font-style: italic; font-size: 0.9em;">Waikiki Beach</span>
-  </p>
-</details>
-
-<details>
-  <summary>San Diego, United States (2023–2025)</summary>
-  <p align="center">
-    <img src="/images/sd.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">The Pacific Ocean viewed from La Jolla</span>
   </p>
 </details>
 

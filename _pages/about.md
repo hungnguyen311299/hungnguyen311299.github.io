@@ -13,17 +13,7 @@ I am a PhD student in Electrical Engineering (Signal and Image Processing) at th
 
 I am affiliated with the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. Truong Nguyen. I work on integrating traditional image and signal processing concepts and approaches into modern computer vision frameworks, e.g., diffusion models, 3D Gaussian Splatting.
 
-I am fortunate to have been fully funded by the ECE Department Fellowship, the Center of Wireless Communications Fellowship (for PhD studies), the Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (for MS studies) and the Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) (for BEng studies).
-
-<!-- I am also a Senior AI Engineer at VinMotion, researching pose estimation, grasp detection and vision-language models. -->
-
-<!-- ## Research Interests
-
-My research interests include, but not limited to, the following:
-
-- **How can digital signal processing (DSP) concepts (e.g., wavelets, Fourier transform) be incorporated in machine learning frameworks to enhance sparsity, generalizability and interpretability?** The key idea is that many input forms (e.g., images, videos, texts) can be interpreted as signals, and hence subjected to processing and analysis under a DSP perspective. My belief is that without proper signal-based constraints, we risk letting the model learn representations that contribute less meaningfully to the task, which can have adverse effects on robustness and efficiency.
-- **How can different kinds of priors (e.g., task-specific, semantics) be leveraged to improve machine learning frameworks?** As a designer of AI systems, I believe it is essential to understand domain knowledge of the task at hand and incorporate meaningful task-specific priors. Similar to signal processing, these task-specific priors can help improve robustness and efficiency. Besides, I am interested in incorporating semantics priors into machine learning frameworks, as they tend to be highly robust and align naturally with how humans perceive and reason about the world.
-- **How can these priors constrain the learnt representations under limited data?** With a sparse set of labelled inputs, the learnt representations tend to be inadequately controlled, leading to subpar performances. However, working in low-data regime provides the benefits of shorter training time and cheaper annotation costs. The key idea is that the priors above, coupled with DSP concepts, can guide the model toward learning compact and structured representations that enhance robustness and efficiency, despite relying only on sparse inputs. -->
+I am fortunate to have been fully funded by the ECE Department Fellowship, the Center of Wireless Communications Fellowship (for PhD studies), the Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (for MS studies) and the Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) (for BEng studies). My latest resume is available [here](https://drive.google.com/file/d/1nFDECxJmygRvJ0K2yH5p5ElMCQpriS5r/view?usp=sharing).
 
 ## News
 

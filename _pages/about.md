@@ -17,6 +17,8 @@ I am fortunate to have been fully funded by the ECE Department Fellowship, the C
 
 ## News
 
+\[07/2026\] A [paper](https://arxiv.org/abs/2507.16119) is accepted to [the 2026 ICAISF conference](https://www.icaisf.com/).
+
 \[05/2026\] A [paper](https://arxiv.org/abs/2602.14199) is accepted to [the 2026 EUSIPCO conference](https://eusipco2026.org/).
 
 \[01/2026\] A [paper](https://arxiv.org/pdf/2509.19073) is accepted to [the 2026 ICASSP conference](https://2026.ieeeicassp.org/).

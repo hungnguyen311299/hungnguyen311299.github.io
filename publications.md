@@ -10,6 +10,20 @@ author_profile: true
 <table>
 <tr>
 <td width="400">
+  <img src="/images/3dretinal.png" width="400"/>
+</td>
+<td>
+  <div style="font-size: 18px; line-height: 1.4;">
+    <strong>Universal Wavelet Units in 3D Retinal Layer Segmentation</strong><br/>An D. Le, <strong>Hung Nguyen</strong>>, Mohamed Morsy, Amr Ali, Shane Griffin, Shadi Alashwal, Nehal Mehta, Melanie Tran, Jesse Most, Dirk-Uwe G. Bartsch, William R. Freeman, Cheolhong An, Truong Q. Nguyen, and Shyamanga Borooah<br/>
+    <em>arXiv preprint</em>, 2025. <a href="https://arxiv.org/abs/2507.16119">[paper]</a>
+  </div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="400">
   <img src="/images/autoopti3dgsplus.png" width="400"/>
 </td>
 <td>
@@ -49,21 +63,6 @@ author_profile: true
     <strong>DWTGS: Rethinking Frequency Regularization for Sparse-view 3D Gaussian Splatting</strong><br/>
     <strong>Hung Nguyen</strong>, Runfa Li, An Le, Truong Nguyen<br/>
     <em>International Conference on Visual Communications and Image Processing (VCIP)</em>, 2025. <a href="https://arxiv.org/abs/2507.15690">[paper]</a>
-  </div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="400">
-  <img src="/images/3dretinal.png" width="400"/>
-</td>
-<td>
-  <div style="font-size: 18px; line-height: 1.4;">
-    <strong>Universal Wavelet Units in 3D Retinal Layer Segmentation</strong><br/>
-    An Le, <strong>Hung Nguyen</strong>, Melanie Tran, Jesse Most, Dirk-Uwe G. Bartsch, William Freeman, Shyamanga Borooah, Truong Q. Nguyen, Cheolhong An<br/>
-    <em>arXiv preprint</em>, 2025. <a href="https://arxiv.org/abs/2507.16119">[paper]</a>
   </div>
 </td>
 </tr>

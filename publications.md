@@ -14,8 +14,8 @@ author_profile: true
 </td>
 <td>
   <div style="font-size: 18px; line-height: 1.4;">
-    <strong>Universal Wavelet Units in 3D Retinal Layer Segmentation</strong><br/>An D. Le, <strong>Hung Nguyen</strong>>, Mohamed Morsy, Amr Ali, Shane Griffin, Shadi Alashwal, Nehal Mehta, Melanie Tran, Jesse Most, Dirk-Uwe G. Bartsch, William R. Freeman, Cheolhong An, Truong Q. Nguyen, and Shyamanga Borooah<br/>
-    <em>arXiv preprint</em>, 2025. <a href="https://arxiv.org/abs/2507.16119">[paper]</a>
+    <strong>Universal Wavelet Units in 3D Retinal Layer Segmentation</strong><br/>An D. Le, <strong>Hung Nguyen</strong>, Mohamed Morsy, Amr Ali, Shane Griffin, Shadi Alashwal, Nehal Mehta, Melanie Tran, Jesse Most, Dirk-Uwe G. Bartsch, William R. Freeman, Cheolhong An, Truong Q. Nguyen, and Shyamanga Borooah<br/>
+    <em>International Conference on AI and Emerging Technology For Sustainable Future (ICAISF)</em>, 2026. <a href="https://arxiv.org/abs/2507.16119">[paper]</a>
   </div>
 </td>
 </tr>

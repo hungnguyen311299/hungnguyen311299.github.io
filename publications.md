@@ -10,6 +10,20 @@ author_profile: true
 <table>
 <tr>
 <td width="400">
+  <img src="/images/speech2grasp.png" width="400"/>
+</td>
+<td>
+  <div style="font-size: 18px; line-height: 1.4;">
+    <strong>Speech2Grasp: Data-Efficient Transfer of Text-Conditioned Grasp Detection to Speech in Humanoid Robots</strong><br/><strong>Hung Nguyen</strong>*, Kim Nhat Minh Nguyen*, Van Duc Vu, Van-Danh Le, Hoang Huy Le, Dinh Tuan Nguyen, Pham Tuyen Le, Van-Truong Nguyen, Quan Nguyen<br/>
+    <em>arXiv preprint</em>, 2026. <a href="https://arxiv.org/pdf/2607.26567">[paper]</a>
+  </div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="400">
   <img src="/images/3dretinal.png" width="400"/>
 </td>
 <td>

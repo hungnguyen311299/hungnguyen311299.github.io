@@ -22,6 +22,14 @@ author_profile: true
 </details>
 
 <details>
+  <summary>Da Lat, Vietnam (2014, 2020, 2022-2026)</summary>
+  <p align="center">
+    <img src="/images/dalat.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Tuyen Lam Lake</span>
+  </p>
+</details>
+
+<details>
   <summary>Cao Bang, Vietnam (2026)</summary>
   <p align="center">
     <img src="/images/caobang.jpg" width="600"><br>
@@ -202,14 +210,6 @@ author_profile: true
   <p align="center">
     <img src="/images/bangkok.jpg" width="600"><br>
     <span style="font-style: italic; font-size: 0.9em;">Central World</span>
-  </p>
-</details>
-
-<details>
-  <summary>Da Lat, Vietnam (2014, 2020, 2022, 2023)</summary>
-  <p align="center">
-    <img src="/images/dalat.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">Tuyen Lam Lake</span>
   </p>
 </details>
 

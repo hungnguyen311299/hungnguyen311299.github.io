@@ -30,6 +30,22 @@ author_profile: true
 </details>
 
 <details>
+  <summary>Vinh Hy, Vietnam (2026)</summary>
+  <p align="center">
+    <img src="/images/vinhhy.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Vinh Hy Bay</span>
+  </p>
+</details>
+
+<details>
+  <summary>Phan Rang - Thap Cham, Vietnam (2026)</summary>
+  <p align="center">
+    <img src="/images/phanrang.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Po Klong Garai Temple</span>
+  </p>
+</details>
+
+<details>
   <summary>Cao Bang, Vietnam (2026)</summary>
   <p align="center">
     <img src="/images/caobang.jpg" width="600"><br>

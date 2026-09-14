@@ -57,7 +57,7 @@ author_profile: true
   <summary>Barcelona, Spain (2026)</summary>
   <p align="center">
     <img src="/images/barcelona.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">Sagrada Familia</span>
+    <span style="font-style: italic; font-size: 0.9em;">Casa Battlo</span>
   </p>
 </details>
 

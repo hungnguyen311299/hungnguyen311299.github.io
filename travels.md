@@ -198,18 +198,18 @@ author_profile: true
 </details>
 
 <details>
-  <summary>Honolulu, United States (2023, 2024)</summary>
-  <p align="center">
-    <img src="/images/honolulu.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">Waikiki Beach</span>
-  </p>
-</details>
-
-<details>
   <summary>Los Angeles, United States (2023, 2025)</summary>
   <p align="center">
     <img src="/images/LA.jpg" width="600"><br>
     <span style="font-style: italic; font-size: 0.9em;">Hollywood Walk of Fame</span>
+  </p>
+</details>
+
+<details>
+  <summary>Honolulu, United States (2023, 2024)</summary>
+  <p align="center">
+    <img src="/images/honolulu.jpg" width="600"><br>
+    <span style="font-style: italic; font-size: 0.9em;">Waikiki Beach</span>
   </p>
 </details>
 
@@ -278,7 +278,7 @@ author_profile: true
 </details>
 
 <details>
-  <summary>Da Nang, Vietnam (2022)</summary>
+  <summary>Da Nang, Vietnam (2019, 2022)</summary>
   <p align="center">
     <img src="/images/danang.jpg" width="600"><br>
     <span style="font-style: italic; font-size: 0.9em;">My Khe Beach</span>
@@ -289,7 +289,7 @@ author_profile: true
   <summary>Nha Trang, Vietnam (2022)</summary>
   <p align="center">
     <img src="/images/nhatrang.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">Nha Trang Beach</span>
+    <span style="font-style: italic; font-size: 0.9em;">The beach on Tran Phu Street</span>
   </p>
 </details>
 

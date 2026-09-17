@@ -11,9 +11,9 @@ redirect_from:
 
 I am a PhD student in Electrical Engineering (Signal and Image Processing) at the University of California San Diego, United States, co-advised by Distinguished Professors [Truong Nguyen](https://jacobsschool.ucsd.edu/people/profile/truong-q-nguyen) and [Pamela Cosman](https://jacobsschool.ucsd.edu/node/3287), Chair of the ECE Department. 
 
-I am affiliated with the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. Truong Nguyen. My research interests revolve around frequency-domain learning and compression for computer vision, e.g., via Fourier, cosine, and wavelet transforms.
+I am affiliated with the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. Truong Nguyen. My research integrates frequency-domain methods, such as Fourier, cosine, and wavelet transforms, into modern computer vision architectures to impose useful priors for detail learning, regularization and compression.
 
-I am fortunate to have been fully funded by the ECE Department Fellowship, the Center of Wireless Communications Fellowship (for PhD studies), the Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (for MS studies) and the Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) (for BEng studies). My latest resume is available [here](https://drive.google.com/file/d/1nFDECxJmygRvJ0K2yH5p5ElMCQpriS5r/view?usp=sharing).
+I am fortunate to have been fully funded by the ECE Department and Center for Wireless Communications Fellowships (for PhD studies), the Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (for MS studies) and the Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) (for BEng studies). My latest resume is available [here]({{ '/files/resume.pdf' | relative_url }}).
 
 ## News
 

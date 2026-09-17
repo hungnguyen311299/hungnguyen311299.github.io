@@ -13,7 +13,7 @@ I am a PhD student in Electrical Engineering (Signal and Image Processing) at th
 
 I am affiliated with the [Video Processing Lab](https://sites.google.com/view/ucsdvpl/), supervised by Prof. Truong Nguyen. My research integrates frequency-domain methods, such as Fourier, cosine, and wavelet transforms, into modern computer vision architectures to impose useful priors for detail learning, regularization and compression.
 
-I am fortunate to have been fully funded by the ECE Department and Center for Wireless Communications Fellowships (for PhD studies), the Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/ph-d-scholarship-program/) (for MS studies) and the Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) (for BEng studies). My latest resume is available [here]({{ '/files/resume.pdf' | relative_url }}).
+I am fortunate to have been fully funded by the [ECE Department](https://ece.ucsd.edu/) and [Center for Wireless Communications](https://cwc.ucsd.edu/) Fellowships (for PhD studies), the Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/) (for MS studies) and the Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) (for BEng studies). My latest resume is available [here]({{ '/files/resume.pdf' | relative_url }}).
 
 ## News
 

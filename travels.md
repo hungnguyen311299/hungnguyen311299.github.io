@@ -9,7 +9,7 @@ author_profile: true
   <summary><strong>San Diego, United States (2023–present)</strong></summary>
   <p align="center">
     <img src="/images/sd.jpg" width="600"><br>
-    <span style="font-style: italic; font-size: 0.9em;">The Pacific Ocean viewed from La Jolla</span>
+    <span style="font-style: italic; font-size: 0.9em;">Scripps Pier at sunset</span>
   </p>
 </details>
 

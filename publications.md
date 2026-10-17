@@ -91,7 +91,7 @@ author_profile: true
   <div style="font-size: 18px; line-height: 1.4;">
     <strong>Stop-band Energy Constraint for Orthogonal Tunable Wavelet Units in Convolutional Neural Networks for Computer Vision problems</strong><br/>
     An Le, <strong>Hung Nguyen</strong>, Sungbal Seo, You-Suk Bae, Truong Nguyen<br/>
-    <em>International Conference on Visual Communications and Image Processing (VCIP)</em>, 2025. <a href="https://arxiv.org/abs/2507.16114">[paper]</a>
+    <em>International Conference on Visual Communications and Image Processing (VCIP)</em>, 2025. <a href="https://arxiv.org/abs/2507.16114">[paper]</a> <a href="/files/vcip25-an.pdf">[talk]</a>
   </div>
 </td>
 </tr>
@@ -121,7 +121,7 @@ author_profile: true
   <div style="font-size: 18px; line-height: 1.4;">
     <strong>Tunable Wavelet Unit-Based Convolutional Neural Network in Optical Coherence Tomography Analysis Enhancement for Classifying Type of Epiretinal Membrane Surgery</strong><br/>
     An Le, Nehal Mehta, William Freeman, Ines Nagel, Melanie Tran, Anna Heinke, Akshay Agnihotri, Lingyun Cheng, Dirk-Uwe Bartsch, <strong>Hung Nguyen</strong>, Truong Nguyen, Cheolhong An<br/>
-    <em>European Conference on Signal Processing (EUSIPCO)</em>, 2025. <a href="https://arxiv.org/abs/2507.00743">[paper]</a>
+    <em>European Conference on Signal Processing (EUSIPCO)</em>, 2025. <a href="https://arxiv.org/abs/2507.00743">[paper]</a> <a href="/files/eusipco25-an1.pdf">[poster]</a>
   </div>
 </td>
 </tr>
@@ -136,7 +136,7 @@ author_profile: true
   <div style="font-size: 18px; line-height: 1.4;">
     <strong>Biorthogonal Tunable Wavelet Unit With Lifting Scheme in Convolutional Neural Network</strong><br/>
     An Le, <strong>Hung Nguyen</strong>, Sungbal Seo, You-Suk Bae, Truong Nguyen<br/>
-    <em>European Conference on Signal Processing (EUSIPCO)</em>, 2025. <a href="https://arxiv.org/abs/2507.00739">[paper]</a>
+    <em>European Conference on Signal Processing (EUSIPCO)</em>, 2025. <a href="https://arxiv.org/abs/2507.00739">[paper]</a> <a href="/files/eusipco25-an2.pdf">[poster]</a>
   </div>
 </td>
 </tr>

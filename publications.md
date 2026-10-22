@@ -14,7 +14,7 @@ author_profile: true
 </td>
 <td>
   <div style="font-size: 18px; line-height: 1.4;">
-    <strong>SeeBFM: Behavior Foundation Model That Sees</strong><br/>Thanh Ly, <strong>Hung Nguyen</strong>*, An T. Le<br/>
+    <strong>SeeBFM: Behavior Foundation Model That Sees</strong><br/>Thanh Ly, <strong>Hung Nguyen</strong>, An T. Le<br/>
     <em>preprint</em>, 2026. <a href="https://capfab.github.io/seebfm-media/">[project page]</a>
   </div>
 </td>

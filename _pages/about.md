@@ -15,6 +15,8 @@ I am affiliated with the [Video Processing Lab](https://sites.google.com/view/uc
 
 I am fortunate to have been fully funded by the [ECE Department](https://ece.ucsd.edu/) and [Center for Wireless Communications](https://cwc.ucsd.edu/) Fellowships (for PhD studies), the Vingroup [Scholarship](https://scholarships.vinuni.edu.vn/) (for MS studies) and the Panasonic Asia [Scholarship](https://holdings.panasonic/global/corporate/sustainability/citizenship/scholarship.html) (for BEng studies). My latest resume is available [here]({{ '/files/resume.pdf' | relative_url }}).
 
+My Vietnamese 🇻🇳 name is *Nguyễn Ngọc Duy Hưng*.
+
 ## News
 
 \[07/2026\] A [paper](https://arxiv.org/abs/2507.16119) is accepted to [the 2026 ICAISF conference](https://www.icaisf.com/).
